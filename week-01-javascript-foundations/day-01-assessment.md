@@ -49,7 +49,7 @@ Declare variables for a student:
 - Course
 - Whether the student is currently active
 
-Print a readable student profile to the console. Choose suitable data types and use `const` or `let) appropriately.
+Print a readable student profile to the console. Choose suitable data types and use `const` or `let` appropriately.
 
 ### Challenge 2 — Examination calculator
 Store marks for Mathematics, English, and Computer Studies.
