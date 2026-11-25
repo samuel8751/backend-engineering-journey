@@ -28,3 +28,13 @@ while loop- a certain condition must be true for the loop to be excecuted eg whi
 What is an infinite loop, and how can a programmer prevent one?
 An infinite loop is a loop that does not reach execution because a certain condition is not met 
 Predict the output below and explain why:
+let score = 45;
+score = score + 10;
+
+if (score >= 50) {
+    console.log("Pass");
+} else {
+    console.log("Fail");
+}
+
+45+10=55   so it is pass
